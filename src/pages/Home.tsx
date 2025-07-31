@@ -16,7 +16,7 @@ const Home: React.FC = () => {
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
               Collection
               <span className="bg-gradient-to-r from-pink-500 to-rose-500 bg-clip-text text-transparent">
-                {' '}Printemps
+                {' '}ÉTÉ
               </span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
